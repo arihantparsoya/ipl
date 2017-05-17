@@ -16,6 +16,7 @@ for i in full_data:
         year_data.append(i)
         teams.append(i[2])
 
+
 teams = list(set(teams))
 r = {}
 
@@ -33,8 +34,10 @@ for t in teams:
             else:
                 r[t].append({t: points, t+"_comments": d[2] + ' Vs ' + d[3] + '<br>' + t + ' Lost' })
 
-res = []
 
+#print(r)
+print(teams)
+res = []
 dummy = {}
 
 for t in teams:
@@ -43,15 +46,19 @@ for t in teams:
     dummy['match'] = 0
 
 res.append(dummy)
-
+k = dummy
 for i in range(0, 2*(len(teams)-1)):
     dummy = {}
     for t in teams:
         try:
             dummy = {**dummy, **r[t][i]}
         except:
-            dummy = dummy
+            try:
+                dummy = {**dummy, **r[t][i-1]}
+            except:
+                dummy = k
     dummy['match'] = i + 1
+    k = dummy
     res.append(dummy)
 
 t = res
