@@ -27,6 +27,9 @@ for i in teams:
 
 t = []
 t.append(res.copy())
+check = {}
+for i in teams:
+    check[i] = False
 
 for i in year_data:
     if i[4] != "":
@@ -38,14 +41,16 @@ for i in year_data:
         res[i[3]] = res[i[3]] + 1
         res[i[2]+'_comments'] = i[2] + " Vs " + i[3] + "<br>" + i[4] + " Wins"
         res[i[3]+'_comments'] = i[2] + " Vs " + i[3] + "<br>" + i[4] + " Wins"
-
-    if all(res[j+"_comments"] != None for j in teams):
+    check[i[2]] = True
+    check[i[3]] = True
+    if all(check[j] == True for j in teams):
         res['match'] = res['match'] + 1
         t.append(res.copy())
         for j in teams:
+            check[j] = False
             res[j + "_comments"] = None
 
-
+print(len(t))
 keys = t[0].keys()
 
 with open(str(current_year) + '.csv', 'w') as output_file:

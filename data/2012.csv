@@ -1,75 +1,18 @@
-match,Pune Warriors,Delhi Daredevils,Kings XI Punjab,Mumbai Indians,Kolkata Knight Riders,Rajasthan Royals,Deccan Chargers,Chennai Super Kings,Royal Challengers Bangalore
-1,0,0,0,2,0,0,0,0,0
-2,0,2,0,2,0,0,0,0,0
-3,2,2,0,2,0,0,0,0,0
-4,2,2,0,2,0,2,0,0,0
-5,2,2,0,2,0,2,0,0,2
-6,2,2,0,2,0,2,0,2,2
-7,2,2,0,2,0,4,0,2,2
-8,4,2,0,2,0,4,0,2,2
-9,4,2,0,4,0,4,0,2,2
-10,4,2,0,4,2,4,0,2,2
-11,4,4,0,4,2,4,0,2,2
-12,4,4,0,6,2,4,0,2,2
-13,4,4,0,6,2,4,0,4,2
-14,4,4,2,6,2,4,0,4,2
-15,4,4,2,6,4,4,0,4,2
-16,4,6,2,6,4,4,0,4,2
-17,6,6,2,6,4,4,0,4,2
-18,6,6,4,6,4,4,0,4,2
-19,6,6,4,6,4,6,0,4,2
-20,6,8,4,6,4,6,0,4,2
-21,6,8,4,6,4,8,0,4,2
-22,6,8,4,6,4,8,0,4,4
-23,6,8,4,6,6,8,0,4,4
-24,6,10,4,6,6,8,0,4,4
-25,6,10,4,6,6,8,0,6,4
-26,6,10,4,6,6,8,0,6,6
-27,6,10,4,6,6,8,0,8,6
-28,8,10,4,6,6,8,0,8,6
-29,8,10,6,6,6,8,0,8,6
-30,8,10,6,6,8,8,0,8,6
-31,8,10,6,6,8,8,0,8,8
-32,8,12,6,6,8,8,0,8,8
-33,8,12,6,8,8,8,0,8,8
-34,8,12,6,8,8,8,2,8,8
-35,8,14,6,8,8,8,2,8,8
-36,8,14,8,8,8,8,2,8,8
-37,8,14,8,8,10,8,2,8,8
-38,8,16,8,8,10,8,2,8,8
-39,8,16,8,10,10,8,2,8,8
-40,8,16,8,10,12,8,2,8,8
-41,8,16,8,10,12,8,4,8,8
-42,8,18,8,10,12,8,4,8,8
-43,8,18,10,10,12,8,4,8,8
-44,8,18,10,12,12,8,4,8,8
-45,8,18,10,12,12,8,4,10,8
-46,8,18,10,12,14,8,4,10,8
-47,8,18,10,12,14,10,4,10,8
-48,8,18,10,14,14,10,4,10,8
-49,8,18,10,14,14,10,4,10,10
-50,8,18,10,14,16,10,4,10,10
-51,8,18,10,14,16,12,4,10,10
-52,8,18,12,14,16,12,4,10,10
-53,8,18,12,14,16,12,4,10,12
-54,8,18,12,14,16,12,4,12,12
-55,8,18,12,14,16,12,4,12,14
-56,8,18,12,16,16,12,4,12,14
-57,8,18,12,16,16,12,4,14,14
-58,8,18,12,16,16,14,4,14,14
-59,8,18,14,16,16,14,4,14,14
-60,8,18,14,18,16,14,4,14,14
-61,8,18,14,18,16,14,4,16,14
-62,8,20,14,18,16,14,4,16,14
-63,8,20,14,18,18,14,4,16,14
-64,8,20,16,18,18,14,4,16,14
-65,8,20,16,18,18,14,4,16,16
-66,8,20,16,18,18,14,6,16,16
-67,8,22,16,18,18,14,6,16,16
-68,8,22,16,18,20,14,6,16,16
-69,8,22,16,18,20,14,8,16,16
-70,8,22,16,20,20,14,8,16,16
-71,8,22,16,20,22,14,8,16,16
-72,8,22,16,20,22,14,8,18,16
-73,8,22,16,20,22,14,8,20,16
-74,8,22,16,20,24,14,8,20,16
+Royal Challengers Bangalore,Royal Challengers Bangalore_comments,match,Chennai Super Kings,Chennai Super Kings_comments,Deccan Chargers,Deccan Chargers_comments,Kings XI Punjab,Kings XI Punjab_comments,Pune Warriors,Pune Warriors_comments,Delhi Daredevils,Delhi Daredevils_comments,Kolkata Knight Riders,Kolkata Knight Riders_comments,Mumbai Indians,Mumbai Indians_comments,Rajasthan Royals,Rajasthan Royals_comments
+0,,0,0,,0,,0,,0,,0,,0,,0,,0,
+2,Royal Challengers Bangalore Vs Delhi Daredevils<br>Royal Challengers Bangalore Won,1,0,Chennai Super Kings Vs Mumbai Indians<br>Chennai Super Kings Lost,0,Chennai Super Kings Vs Deccan Chargers<br>Deccan Chargers Lost,0,Rajasthan Royals Vs Kings XI Punjab<br>Kings XI Punjab Lost,2,Pune Warriors Vs Mumbai Indians<br>Pune Warriors Won,2,Kolkata Knight Riders Vs Delhi Daredevils<br>Delhi Daredevils Won,0,Kolkata Knight Riders Vs Delhi Daredevils<br>Kolkata Knight Riders Lost,2,Chennai Super Kings Vs Mumbai Indians<br>Mumbai Indians Won,2,Rajasthan Royals Vs Kings XI Punjab<br>Rajasthan Royals Won
+2,Kolkata Knight Riders Vs Royal Challengers Bangalore<br>Royal Challengers Bangalore Lost,2,2,Chennai Super Kings Vs Deccan Chargers<br>Chennai Super Kings Won,0,Deccan Chargers Vs Mumbai Indians<br>Deccan Chargers Lost,0,Pune Warriors Vs Kings XI Punjab<br>Kings XI Punjab Lost,4,Pune Warriors Vs Kings XI Punjab<br>Pune Warriors Won,2,Royal Challengers Bangalore Vs Delhi Daredevils<br>Delhi Daredevils Lost,0,Rajasthan Royals Vs Kolkata Knight Riders<br>Kolkata Knight Riders Lost,2,Pune Warriors Vs Mumbai Indians<br>Mumbai Indians Lost,4,Rajasthan Royals Vs Kolkata Knight Riders<br>Rajasthan Royals Won
+2,Royal Challengers Bangalore Vs Chennai Super Kings<br>Royal Challengers Bangalore Lost,3,2,Chennai Super Kings Vs Delhi Daredevils<br>Chennai Super Kings Lost,0,Deccan Chargers Vs Delhi Daredevils<br>Deccan Chargers Lost,2,Pune Warriors Vs Kings XI Punjab<br>Kings XI Punjab Won,4,Pune Warriors Vs Kings XI Punjab<br>Pune Warriors Lost,4,Chennai Super Kings Vs Delhi Daredevils<br>Delhi Daredevils Won,2,Kolkata Knight Riders Vs Royal Challengers Bangalore<br>Kolkata Knight Riders Won,4,Deccan Chargers Vs Mumbai Indians<br>Mumbai Indians Won,4,Mumbai Indians Vs Rajasthan Royals<br>Rajasthan Royals Lost
+2,Rajasthan Royals Vs Royal Challengers Bangalore<br>Royal Challengers Bangalore Lost,4,4,Royal Challengers Bangalore Vs Chennai Super Kings<br>Chennai Super Kings Won,0,Deccan Chargers Vs Rajasthan Royals<br>Deccan Chargers Lost,4,Kings XI Punjab Vs Kolkata Knight Riders<br>Kings XI Punjab Won,6,Chennai Super Kings Vs Pune Warriors<br>Pune Warriors Won,6,Deccan Chargers Vs Delhi Daredevils<br>Delhi Daredevils Won,4,Rajasthan Royals Vs Kolkata Knight Riders<br>Kolkata Knight Riders Won,6,Mumbai Indians Vs Rajasthan Royals<br>Mumbai Indians Won,4,Rajasthan Royals Vs Kolkata Knight Riders<br>Rajasthan Royals Lost
+4,Pune Warriors Vs Royal Challengers Bangalore<br>Royal Challengers Bangalore Won,5,4,Chennai Super Kings Vs Pune Warriors<br>Chennai Super Kings Lost,0,Deccan Chargers Vs Delhi Daredevils<br>Deccan Chargers Lost,4,Kings XI Punjab Vs Kolkata Knight Riders<br>Kings XI Punjab Lost,6,Pune Warriors Vs Royal Challengers Bangalore<br>Pune Warriors Lost,8,Mumbai Indians Vs Delhi Daredevils<br>Delhi Daredevils Won,4,Kings XI Punjab Vs Kolkata Knight Riders<br>Kolkata Knight Riders Lost,6,Mumbai Indians Vs Delhi Daredevils<br>Mumbai Indians Lost,6,Rajasthan Royals Vs Royal Challengers Bangalore<br>Rajasthan Royals Won
+6,Kings XI Punjab Vs Royal Challengers Bangalore<br>Royal Challengers Bangalore Won,6,6,Chennai Super Kings Vs Pune Warriors<br>Chennai Super Kings Won,0,Deccan Chargers Vs Kolkata Knight Riders<br>Deccan Chargers Lost,4,Kings XI Punjab Vs Royal Challengers Bangalore<br>Kings XI Punjab Lost,6,Chennai Super Kings Vs Pune Warriors<br>Pune Warriors Lost,10,Deccan Chargers Vs Delhi Daredevils<br>Delhi Daredevils Won,6,Kings XI Punjab Vs Kolkata Knight Riders<br>Kolkata Knight Riders Won,6,Mumbai Indians Vs Kings XI Punjab<br>Mumbai Indians Lost,8,Deccan Chargers Vs Rajasthan Royals<br>Rajasthan Royals Won
+8,Royal Challengers Bangalore Vs Rajasthan Royals<br>Royal Challengers Bangalore Won,7,8,Rajasthan Royals Vs Chennai Super Kings<br>Chennai Super Kings Won,2,Deccan Chargers Vs Pune Warriors<br>Deccan Chargers Won,6,Mumbai Indians Vs Kings XI Punjab<br>Kings XI Punjab Won,8,Pune Warriors Vs Delhi Daredevils<br>Pune Warriors Won,10,Pune Warriors Vs Delhi Daredevils<br>Delhi Daredevils Lost,8,Deccan Chargers Vs Kolkata Knight Riders<br>Kolkata Knight Riders Won,8,Kings XI Punjab Vs Mumbai Indians<br>Mumbai Indians Won,8,Rajasthan Royals Vs Chennai Super Kings<br>Rajasthan Royals Lost
+8,Kolkata Knight Riders Vs Royal Challengers Bangalore<br>Royal Challengers Bangalore Lost,8,8,Kings XI Punjab Vs Chennai Super Kings<br>Chennai Super Kings Lost,2,Deccan Chargers Vs Mumbai Indians<br>Deccan Chargers Lost,6,Kings XI Punjab Vs Mumbai Indians<br>Kings XI Punjab Lost,8,Pune Warriors Vs Delhi Daredevils<br>Pune Warriors Lost,12,Pune Warriors Vs Delhi Daredevils<br>Delhi Daredevils Won,10,Kolkata Knight Riders Vs Royal Challengers Bangalore<br>Kolkata Knight Riders Won,8,Delhi Daredevils Vs Mumbai Indians<br>Mumbai Indians Lost,8,Royal Challengers Bangalore Vs Rajasthan Royals<br>Rajasthan Royals Lost
+8,Royal Challengers Bangalore Vs Kings XI Punjab<br>Royal Challengers Bangalore Lost,9,8,Chennai Super Kings Vs Kolkata Knight Riders<br>Chennai Super Kings Lost,4,Deccan Chargers Vs Pune Warriors<br>Deccan Chargers Won,8,Kings XI Punjab Vs Chennai Super Kings<br>Kings XI Punjab Won,8,Deccan Chargers Vs Pune Warriors<br>Pune Warriors Lost,14,Delhi Daredevils Vs Mumbai Indians<br>Delhi Daredevils Won,12,Chennai Super Kings Vs Kolkata Knight Riders<br>Kolkata Knight Riders Won,10,Deccan Chargers Vs Mumbai Indians<br>Mumbai Indians Won,8,Delhi Daredevils Vs Rajasthan Royals<br>Rajasthan Royals Lost
+10,Deccan Chargers Vs Royal Challengers Bangalore<br>Royal Challengers Bangalore Won,10,10,Chennai Super Kings Vs Deccan Chargers<br>Chennai Super Kings Won,4,Chennai Super Kings Vs Deccan Chargers<br>Deccan Chargers Lost,10,Royal Challengers Bangalore Vs Kings XI Punjab<br>Kings XI Punjab Won,8,Deccan Chargers Vs Pune Warriors<br>Pune Warriors Lost,16,Delhi Daredevils Vs Rajasthan Royals<br>Delhi Daredevils Won,14,Kolkata Knight Riders Vs Pune Warriors<br>Kolkata Knight Riders Won,12,Mumbai Indians Vs Pune Warriors<br>Mumbai Indians Won,8,Rajasthan Royals Vs Delhi Daredevils<br>Rajasthan Royals Lost
+12,Mumbai Indians Vs Royal Challengers Bangalore<br>Royal Challengers Bangalore Won,11,10,Chennai Super Kings Vs Mumbai Indians<br>Chennai Super Kings Lost,4,Deccan Chargers Vs Royal Challengers Bangalore<br>Deccan Chargers Lost,10,Rajasthan Royals Vs Kings XI Punjab<br>Kings XI Punjab Lost,8,Mumbai Indians Vs Pune Warriors<br>Pune Warriors Lost,18,Rajasthan Royals Vs Delhi Daredevils<br>Delhi Daredevils Won,16,Delhi Daredevils Vs Kolkata Knight Riders<br>Kolkata Knight Riders Won,14,Chennai Super Kings Vs Mumbai Indians<br>Mumbai Indians Won,10,Rajasthan Royals Vs Kings XI Punjab<br>Rajasthan Royals Won
+14,Royal Challengers Bangalore Vs Pune Warriors<br>Royal Challengers Bangalore Won,12,12,Rajasthan Royals Vs Chennai Super Kings<br>Chennai Super Kings Won,4,Kings XI Punjab Vs Deccan Chargers<br>Deccan Chargers Lost,12,Kings XI Punjab Vs Deccan Chargers<br>Kings XI Punjab Won,8,Kolkata Knight Riders Vs Pune Warriors<br>Pune Warriors Lost,18,Delhi Daredevils Vs Kolkata Knight Riders<br>Delhi Daredevils Lost,16,Mumbai Indians Vs Kolkata Knight Riders<br>Kolkata Knight Riders Lost,14,Mumbai Indians Vs Royal Challengers Bangalore<br>Mumbai Indians Lost,12,Pune Warriors Vs Rajasthan Royals<br>Rajasthan Royals Won
+14,Royal Challengers Bangalore Vs Mumbai Indians<br>Royal Challengers Bangalore Lost,13,14,Delhi Daredevils Vs Chennai Super Kings<br>Chennai Super Kings Won,4,Deccan Chargers Vs Kings XI Punjab<br>Deccan Chargers Lost,14,Deccan Chargers Vs Kings XI Punjab<br>Kings XI Punjab Won,8,Pune Warriors Vs Rajasthan Royals<br>Pune Warriors Lost,18,Delhi Daredevils Vs Chennai Super Kings<br>Delhi Daredevils Lost,16,Kolkata Knight Riders Vs Chennai Super Kings<br>Kolkata Knight Riders Lost,16,Mumbai Indians Vs Kolkata Knight Riders<br>Mumbai Indians Won,12,Rajasthan Royals Vs Chennai Super Kings<br>Rajasthan Royals Lost
+16,Royal Challengers Bangalore Vs Delhi Daredevils<br>Royal Challengers Bangalore Won,14,16,Kolkata Knight Riders Vs Chennai Super Kings<br>Chennai Super Kings Won,6,Rajasthan Royals Vs Deccan Chargers<br>Deccan Chargers Won,14,Kings XI Punjab Vs Delhi Daredevils<br>Kings XI Punjab Lost,8,Royal Challengers Bangalore Vs Pune Warriors<br>Pune Warriors Lost,20,Kings XI Punjab Vs Delhi Daredevils<br>Delhi Daredevils Won,18,Kolkata Knight Riders Vs Mumbai Indians<br>Kolkata Knight Riders Won,18,Royal Challengers Bangalore Vs Mumbai Indians<br>Mumbai Indians Won,14,Rajasthan Royals Vs Pune Warriors<br>Rajasthan Royals Won
+16,Deccan Chargers Vs Royal Challengers Bangalore<br>Royal Challengers Bangalore Lost,15,16,Chennai Super Kings Vs Kings XI Punjab<br>Chennai Super Kings Lost,8,Deccan Chargers Vs Royal Challengers Bangalore<br>Deccan Chargers Won,16,Chennai Super Kings Vs Kings XI Punjab<br>Kings XI Punjab Won,8,Rajasthan Royals Vs Pune Warriors<br>Pune Warriors Lost,20,Royal Challengers Bangalore Vs Delhi Daredevils<br>Delhi Daredevils Lost,20,Kolkata Knight Riders Vs Pune Warriors<br>Kolkata Knight Riders Won,18,Kolkata Knight Riders Vs Mumbai Indians<br>Mumbai Indians Lost,14,Rajasthan Royals Vs Deccan Chargers<br>Rajasthan Royals Lost
+,,16,18,Chennai Super Kings Vs Mumbai Indians<br>Chennai Super Kings Won,,,16,Kings XI Punjab Vs Delhi Daredevils<br>Kings XI Punjab Lost,8,Kolkata Knight Riders Vs Pune Warriors<br>Pune Warriors Lost,22,Kings XI Punjab Vs Delhi Daredevils<br>Delhi Daredevils Won,22,Kolkata Knight Riders Vs Delhi Daredevils<br>Kolkata Knight Riders Won,20,Rajasthan Royals Vs Mumbai Indians<br>Mumbai Indians Won,14,Rajasthan Royals Vs Mumbai Indians<br>Rajasthan Royals Lost

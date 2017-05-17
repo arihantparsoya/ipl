@@ -120,7 +120,7 @@ function create_line_graph() {
                 max_points = parseInt(data[data.length - 1][teams[i]])
             }
         }
-        x.domain([0, data.length]);
+        x.domain([0, data.length - 1]);
         for (i in teams) { // Set colot for teams
             team_colors[teams[i]] = d3.scaleOrdinal(d3.schemeCategory10).range()[i]; // Using already present color pallets from D3
         }
